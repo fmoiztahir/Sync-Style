@@ -1,2 +1,1 @@
-# Sync-Style
-An E-commerce project 
+index.html
